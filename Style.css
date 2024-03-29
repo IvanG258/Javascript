@@ -1,0 +1,36 @@
+
+Body{
+    text-align: center;
+    height:100vh;
+    width: 100vw;
+    align-items: center;
+    Background:aqua;
+    
+}
+
+p{
+    font-size:20px;
+    font-family: 'century gothic';
+}
+
+.container{ 
+    padding-top:15% ;
+    justify-content:center;
+ align-items:center;
+   
+}
+.boton{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:aliceblue;
+    background:black;
+    height:50px;
+    width:200px;
+    border-radius:10px;
+    border:solid 2px yellow;
+}
+button:hover{
+    font-family: candara;
+   color:black;
+    background-color: aliceblue;
+}
+
